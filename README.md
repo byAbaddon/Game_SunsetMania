@@ -7,7 +7,15 @@ Windows 7, 8, 10 - (installer.exe) <br>
 Linux Arch  - pkgbuild ~ (installer.pkg.tar.xz) <br> 
 Cross-platform software Linux - (AppImage) / soon..
 # Version
-1.0.0  beta
+
 ```diff
+1.0.0  beta
 - This is a beta test version. No screen resizing !!!
+```
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
