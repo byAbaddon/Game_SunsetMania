@@ -8,3 +8,6 @@ Linux Arch  - pkgbuild ~ (installer.pkg.tar.xz) <br>
 Cross-platform software Linux - (AppImage) / soon..
 # Version
 1.0.0  beta
+```diff
+- This is a beta test version. No screen resizing !!!
+```
